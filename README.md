@@ -34,25 +34,25 @@ This project demonstrates how to recognize hand gestures using Machine Learning 
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
+ 
    git clone https://github.com/your-username/Hand-Gesture-Recognition-using-ML.git
    cd Hand-Gesture-Recognition-using-ML
-````
+
 
 2. Create a virtual environment:
 
    Using pip:
 
-   ```bash
+ 
    pip install -r requirements_pip.txt
-   ```
+  
 
    Or using conda:
 
-   ```bash
+  =
    conda create --name gesture_env --file requirements_conda.txt
    conda activate gesture_env
-   ```
+ 
 
 ---
 
@@ -60,21 +60,21 @@ This project demonstrates how to recognize hand gestures using Machine Learning 
 
 1. Collect gesture images:
 
-   ```bash
+ 
    python collect-data.py
-   ```
+   
 
 2. Preprocess and clean images:
 
-   ```bash
+  
    python preprocessing.py
-   ```
+  
 
 3. Train the model:
 
-   ```bash
+  
    python train.py
-   ```
+  
 
 ---
 
