@@ -92,7 +92,7 @@ python app.py
 
 Below is a sample output from the live gesture recognition system:
 
-![Sample Output](553aa6e8-1825-4e21-a8a1-94d9200ea8e6.png)
+![Sample Output](https://github.com/sainikhil131/Hand-Gesture-Recognition-using-ML/blob/cbb3e1aadfb9a177d9e92e69e5830b392ccb1cb5/1.jpg)
 
 ---
 
